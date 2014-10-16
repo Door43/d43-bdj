@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bdj:home|Door43 (bdj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bdj|d43-bdj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bdj/archive/master.zip|d43-bdj.zip]]
+
+**Recent Changes**
+{{changes>ns = bdj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bdj|Ethnologue data]]
+
